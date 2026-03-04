@@ -1,1 +1,3 @@
-# Busy-Bee\nRead-Me Notes.. to be updated
+# Busy-Bee\nRead-Me Notes:
+Python script to send a html email with attachment
+configure local smtp server, etc
